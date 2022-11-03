@@ -1,0 +1,9 @@
+<html>
+<body bgcolor="lightpink">
+<h2><center>CONTACT DETAILS</center></h2>
+<font size="6">
+<p>Dipali savant CSE,<br>GOVERNMENT POLYTECHNIC<br>
+ATHANI-591304</p>
+</font>
+</body>
+</html>
